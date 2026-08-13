@@ -3,7 +3,7 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 2**
+**Total solved: 3**
 
 ## Codeforces
 
@@ -31,11 +31,11 @@ Solutions organized by primary topic folder.
 
 Solutions from the CSES Problem Set, organized by section.
 
-**Solved: 0**
+**Solved: 1**
 
 | Section | Solved |
 | --- | --- |
-| — | 0 |
+| [introductory-problems](./cses/introductory-problems) | 1 |
 
 
 ## CodeChef
