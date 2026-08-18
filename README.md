@@ -1,13 +1,13 @@
 <!-- cf-sync -->
 # Competitive Programming Solutions
 
-Synced automatically by SolveBase.
+Synced automatically by CF Sync.
 
-**Total solved: 13**
+**Total solved: 14**
 
 ## Codeforces
 
-Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficulty rating.
+Solutions by [KASHIF.AIBA](https://codeforces.com/profile/KASHIF.AIBA), organized by difficulty rating.
 
 **Solved: 2**
 
@@ -37,11 +37,11 @@ Solutions organized by primary topic folder.
 
 Solutions from the CSES Problem Set, organized by section.
 
-**Solved: 1**
+**Solved: 2**
 
 | Section | Solved |
 | --- | --- |
-| [introductory-problems](./cses/introductory-problems) | 1 |
+| [introductory-problems](./cses/introductory-problems) | 2 |
 
 
 ## CodeChef
@@ -67,4 +67,3 @@ Solutions organized by difficulty level.
 
 
 _Last updated: 2026-08-18_
-<!-- /cf-sync -->
