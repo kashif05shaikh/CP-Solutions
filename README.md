@@ -1,19 +1,20 @@
 <!-- cf-sync -->
 # Competitive Programming Solutions
 
-Synced automatically by CF Sync.
+Synced automatically by SolveBase.
 
-**Total solved: 10**
+**Total solved: 11**
 
 ## Codeforces
 
-Solutions by [KASHIF.AIBA](https://codeforces.com/profile/KASHIF.AIBA), organized by difficulty rating.
+Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficulty rating.
 
-**Solved: 1**
+**Solved: 2**
 
 | Difficulty | Solved |
 | --- | --- |
 | [800](./codeforces/800) | 1 |
+| [1500](./codeforces/1500) | 1 |
 
 
 ## LeetCode
@@ -63,4 +64,5 @@ Solutions organized by difficulty level.
 | [Medium](./geeksforgeeks/Medium) | 1 |
 
 
-_Last updated: 2026-08-17_
+_Last updated: 2026-08-18_
+<!-- /cf-sync -->
