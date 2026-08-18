@@ -1,13 +1,13 @@
 <!-- cf-sync -->
 # Competitive Programming Solutions
 
-Synced automatically by CF Sync.
+Synced automatically by SolveBase.
 
 **Total solved: 14**
 
 ## Codeforces
 
-Solutions by [KASHIF.AIBA](https://codeforces.com/profile/KASHIF.AIBA), organized by difficulty rating.
+Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficulty rating.
 
 **Solved: 2**
 
@@ -67,3 +67,4 @@ Solutions organized by difficulty level.
 
 
 _Last updated: 2026-08-18_
+<!-- /cf-sync -->
