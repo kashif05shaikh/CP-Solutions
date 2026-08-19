@@ -1,13 +1,13 @@
 <!-- cf-sync -->
 # Competitive Programming Solutions
 
-Synced automatically by SolveBase.
+Synced automatically by CF Sync.
 
-**Total solved: 14**
+**Total solved: 15**
 
 ## Codeforces
 
-Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficulty rating.
+Solutions by [KASHIF.AIBA](https://codeforces.com/profile/KASHIF.AIBA), organized by difficulty rating.
 
 **Solved: 2**
 
@@ -21,13 +21,13 @@ Solutions by [Codeforces](https://codeforces.com/profile/), organized by difficu
 
 Solutions organized by primary topic folder.
 
-**Solved: 8**
+**Solved: 9**
 
 | Topic | Solved |
 | --- | --- |
 | [array](./leetcode/array) | 1 |
 | [binary-search](./leetcode/binary-search) | 1 |
-| [hash-table](./leetcode/hash-table) | 1 |
+| [hash-table](./leetcode/hash-table) | 2 |
 | [math](./leetcode/math) | 1 |
 | [sliding-window](./leetcode/sliding-window) | 2 |
 | [stack](./leetcode/stack) | 2 |
@@ -66,5 +66,4 @@ Solutions organized by difficulty level.
 | [Medium](./geeksforgeeks/Medium) | 1 |
 
 
-_Last updated: 2026-08-18_
-<!-- /cf-sync -->
+_Last updated: 2026-08-19_
