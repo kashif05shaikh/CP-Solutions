@@ -3,7 +3,7 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 16**
+**Total solved: 17**
 
 ## Codeforces
 
@@ -21,11 +21,11 @@ Solutions by [KASHIF.AIBA](https://codeforces.com/profile/KASHIF.AIBA), organize
 
 Solutions organized by primary topic folder.
 
-**Solved: 10**
+**Solved: 11**
 
 | Topic | Solved |
 | --- | --- |
-| [array](./leetcode/array) | 1 |
+| [array](./leetcode/array) | 2 |
 | [binary-search](./leetcode/binary-search) | 1 |
 | [hash-table](./leetcode/hash-table) | 2 |
 | [math](./leetcode/math) | 1 |
@@ -66,4 +66,4 @@ Solutions organized by difficulty level.
 | [Medium](./geeksforgeeks/Medium) | 1 |
 
 
-_Last updated: 2026-08-19_
+_Last updated: 2026-08-20_
