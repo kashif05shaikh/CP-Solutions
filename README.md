@@ -3,7 +3,7 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 20**
+**Total solved: 21**
 
 ## Codeforces
 
@@ -21,7 +21,7 @@ Solutions by [KASHIF.AIBA](https://codeforces.com/profile/KASHIF.AIBA), organize
 
 Solutions organized by primary topic folder.
 
-**Solved: 14**
+**Solved: 15**
 
 | Topic | Solved |
 | --- | --- |
@@ -31,7 +31,7 @@ Solutions organized by primary topic folder.
 | [math](./leetcode/math) | 1 |
 | [sliding-window](./leetcode/sliding-window) | 3 |
 | [stack](./leetcode/stack) | 2 |
-| [two-pointers](./leetcode/two-pointers) | 3 |
+| [two-pointers](./leetcode/two-pointers) | 4 |
 
 
 ## CSES
