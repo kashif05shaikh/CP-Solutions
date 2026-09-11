@@ -3,17 +3,17 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 38**
+**Total solved: 39**
 
 ## Codeforces
 
 Solutions by [KASHIF.AIBA](https://codeforces.com/profile/KASHIF.AIBA), organized by difficulty rating.
 
-**Solved: 6**
+**Solved: 7**
 
 | Difficulty | Solved |
 | --- | --- |
-| [800](./codeforces/800) | 1 |
+| [800](./codeforces/800) | 2 |
 | [1500](./codeforces/1500) | 1 |
 | [Unrated](./codeforces/Unrated) | 4 |
 
@@ -71,5 +71,5 @@ Solutions organized by difficulty level.
 | [Medium](./geeksforgeeks/Medium) | 1 |
 
 
-_Last updated: 2026-09-10_
+_Last updated: 2026-09-11_
 <!-- /cf-sync -->
