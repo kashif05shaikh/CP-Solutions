@@ -3,19 +3,19 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 43**
+**Total solved: 44**
 
 ## Codeforces
 
 Solutions by [KASHIF.AIBA](https://codeforces.com/profile/KASHIF.AIBA), organized by difficulty rating.
 
-**Solved: 9**
+**Solved: 10**
 
 | Difficulty | Solved |
 | --- | --- |
 | [800](./codeforces/800) | 2 |
 | [1500](./codeforces/1500) | 1 |
-| [Unrated](./codeforces/Unrated) | 6 |
+| [Unrated](./codeforces/Unrated) | 7 |
 
 
 ## LeetCode
@@ -71,5 +71,5 @@ Solutions organized by difficulty level.
 | [Medium](./geeksforgeeks/Medium) | 1 |
 
 
-_Last updated: 2026-09-14_
+_Last updated: 2026-09-15_
 <!-- /cf-sync -->
