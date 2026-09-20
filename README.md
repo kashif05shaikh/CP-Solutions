@@ -3,18 +3,18 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 51**
+**Total solved: 52**
 
 ## Codeforces
 
 Solutions by [KASHIF.AIBA](https://codeforces.com/profile/KASHIF.AIBA), organized by difficulty rating.
 
-**Solved: 16**
+**Solved: 17**
 
 | Difficulty | Solved |
 | --- | --- |
 | [800](./codeforces/800) | 5 |
-| [1100](./codeforces/1100) | 3 |
+| [1100](./codeforces/1100) | 4 |
 | [1500](./codeforces/1500) | 1 |
 | [Unrated](./codeforces/Unrated) | 7 |
 
