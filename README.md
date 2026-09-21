@@ -3,7 +3,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 52**
+**Total solved: 53**
 
 ## Codeforces
 
@@ -23,7 +23,7 @@ Solutions by [KASHIF.AIBA](https://codeforces.com/profile/KASHIF.AIBA), organize
 
 Solutions organized by primary topic folder.
 
-**Solved: 30**
+**Solved: 31**
 
 | Topic | Solved |
 | --- | --- |
@@ -35,7 +35,7 @@ Solutions organized by primary topic folder.
 | [math](./leetcode/math) | 1 |
 | [sliding-window](./leetcode/sliding-window) | 3 |
 | [stack](./leetcode/stack) | 3 |
-| [string](./leetcode/string) | 1 |
+| [string](./leetcode/string) | 2 |
 | [two-pointers](./leetcode/two-pointers) | 6 |
 
 
@@ -72,5 +72,5 @@ Solutions organized by difficulty level.
 | [Medium](./geeksforgeeks/Medium) | 1 |
 
 
-_Last updated: 2026-09-20_
+_Last updated: 2026-09-21_
 <!-- /cf-sync -->
