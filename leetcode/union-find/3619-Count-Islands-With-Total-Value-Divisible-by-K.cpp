@@ -1,44 +1,34 @@
-
 class Solution {
 public:
+    long long dfs(int i, int j, vector<vector<int>>& grid) {
+        int m = grid.size();
+        int n = grid[0].size();
+
+        if (i < 0 || j < 0 || i >= m || j >= n || grid[i][j] == 0) {
+            return 0;
+        }
+
+        long long sum = grid[i][j];
+
+        grid[i][j] = 0;
+
+        sum += dfs(i - 1, j, grid); // Up
+        sum += dfs(i + 1, j, grid); // Down
+        sum += dfs(i, j - 1, grid); // Left
+        sum += dfs(i, j + 1, grid); // Right
+
+        return sum;
+    }
+
     int countIslands(vector<vector<int>>& grid, int k) {
         int m = grid.size();
         int n = grid[0].size();
         int count = 0;
 
-        int dr[4] = {-1, 1, 0, 0};
-        int dc[4] = {0, 0, -1, 1};
-
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-
                 if (grid[i][j] > 0) {
-                    long long sum = 0;
-
-                    stack<pair<int, int>> st;
-                    st.push({i, j});
-
-                    sum += grid[i][j];
-                    grid[i][j] = 0;
-
-                    while (!st.empty()) {
-                        auto [r, c] = st.top();
-                        st.pop();
-
-                        for (int d = 0; d < 4; d++) {
-                            int nr = r + dr[d];
-                            int nc = c + dc[d];
-
-                            if (nr >= 0 && nr < m &&
-                                nc >= 0 && nc < n &&
-                                grid[nr][nc] > 0) {
-
-                                sum += grid[nr][nc];
-                                grid[nr][nc] = 0;
-                                st.push({nr, nc});
-                            }
-                        }
-                    }
+                    long long sum = dfs(i, j, grid);
 
                     if (sum % k == 0) {
                         count++;
