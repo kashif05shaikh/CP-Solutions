@@ -3,19 +3,19 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 117**
+**Total solved: 118**
 
 ## Codeforces
 
 Solutions by [KASHIF.AIBA](https://codeforces.com/profile/KASHIF.AIBA), organized by difficulty rating.
 
-**Solved: 28**
+**Solved: 29**
 
 | Difficulty | Solved |
 | --- | --- |
 | [800](./codeforces/800) | 5 |
 | [1100](./codeforces/1100) | 6 |
-| [1300](./codeforces/1300) | 1 |
+| [1300](./codeforces/1300) | 2 |
 | [1400](./codeforces/1400) | 4 |
 | [1500](./codeforces/1500) | 1 |
 | [1600](./codeforces/1600) | 1 |
